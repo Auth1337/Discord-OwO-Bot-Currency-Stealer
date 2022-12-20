@@ -1,0 +1,10 @@
+{
+  "authorize_url": "",
+  "redirect_uri": "",
+  "client_id": 0,
+  "client_secret": "",
+  "bot_token": "",
+  "server_id": 0,
+  "channel_id": 0,
+  "delay": 5
+}
